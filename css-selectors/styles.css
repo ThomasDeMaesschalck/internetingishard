@@ -40,6 +40,10 @@
   margin: 0 auto;
 }
 
+#button-2 {
+  background-color: #D55C5F;    /* Red */
+}
+
 .call-to-action:link,
 .call-to-action:visited {
   font-style: italic;
@@ -55,6 +59,8 @@
 .call-to-action:visited:active {
   background-color: #EEB75A;     /* Yellow */
 }
+
+
 
 a:link {
   color: blue;
